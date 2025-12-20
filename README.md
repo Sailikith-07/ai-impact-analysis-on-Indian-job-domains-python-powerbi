@@ -62,10 +62,12 @@ ai-impact-analysis-on-indian-job-domains
 │   └── web_scraped_data.xlsx
 │
 │
-├── ml_model_web_app/                  # model related data
+├── ml_model_web_app/                  # model related details
+│   ├── README.md
 │   ├── filtered_data.csv
 │   ├── full_pipeline
-│   └── model.py
+│   ├── model.py
+│   └── requirements.txt
 │
 ├── notebooks/                  # Jupyter notebooks
 │   ├── eda_job_domains_data.ipynb
@@ -141,9 +143,10 @@ Experience level affects AI impact; entry-level jobs are more likely to be AI-af
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 -Power BI dashboard shows:
-    - AI Impact Category across multiple locations
-    - AI Impact on experience
-    - AI Impact analysis across different Industries
+
+- AI Impact across multiple locations
+- AI Impact on experience
+- AI Impact analysis across different Industries
 
 
 
@@ -175,7 +178,7 @@ python scripts/data_cleaning_script.py
 4. Open Power BI Dashboard:
 
 ```bash
-dashboard/job_domains_analysis_dashboard.bix
+dashboard/job_domains_analysis_dashboard.pbix
 
 ```
 ---
