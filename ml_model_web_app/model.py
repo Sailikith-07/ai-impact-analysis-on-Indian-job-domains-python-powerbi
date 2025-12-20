@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 
-df=pd.read_csv('filtered_data.csv')
+df=pd.read_csv('ml_model_web_app/filtered_data.csv')
 
 st.title("Job Category Prediction")
 
@@ -57,7 +57,7 @@ if done:
     # 3. Convert categorical data to a DataFrame
     new_job_data = pd.DataFrame(new_cat_data)
 
-    full_pipeline = joblib.load('full_pipeline')
+    full_pipeline = joblib.load('ml_model_web_app/full_pipeline')
     prediction_array = full_pipeline.predict(new_job_data)
 
     
