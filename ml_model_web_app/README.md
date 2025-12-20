@@ -30,7 +30,7 @@ This app is one of the outcomes of the main project: [Main Project Repository](h
 The app is deployed live on **Streamlit Cloud**.  
 Simply visit the link below to access it:
 
-👉 [Live App URL]([https://your-app.streamlit.app](https://job-role-classification-web-app.streamlit.app/))
+👉 [Live App URL](https://job-role-classification-web-app.streamlit.app/)
 
 Enter the required information, and the app will classify your job role.
 
@@ -48,4 +48,5 @@ Gundeti Sailikith
 Aspiring Data Analyst
 
 📧 Email: gundetisalikith@gmail.com
+
 
