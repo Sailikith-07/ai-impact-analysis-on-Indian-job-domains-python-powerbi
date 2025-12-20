@@ -147,7 +147,7 @@ Experience level affects AI impact; entry-level jobs are more likely to be AI-af
 
 
 
-    [job_domains_analysis_dashboard](https://github.com/Sailikith-07/ai-impact-analysis-on-Indian-job-domains-python-powerbi/blob/main/dashboard/dashboard.png)
+![job_domains_analysis_dashboard](https://github.com/Sailikith-07/ai-impact-analysis-on-Indian-job-domains-python-powerbi/blob/d1672306545043395071aeaf18089e1f6cb2c4ef/dashboard/dashboard.png)
 
 ---
 
