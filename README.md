@@ -28,7 +28,7 @@ This project analyzes 5,000 Indian job records across 11 domains to understand A
 
 <h2><a class ="anchor" id="problem-statement"></a>Problem Statement</h2>
 
-People are worried that AI is taking over jobs, but they don't know which roles are safe, which are adopting AI, and which may disappear due to automation in future. In India, this uncertainty spans across multiple domains, creating confusion for both workers and employers. Without clear insights, individuals struggle to plan careers and training, while companies face challenges in hiring. A data‑driven approach is needed to classify job roles by AI impact and guide smarter decisions.
+People are worried that AI is taking over jobs, but they don't know which roles are safe, which are adopting AI, and which may disappear due to automation in future. In India, this uncertainty spans across multiple domains, creating confusion for both job seekers and employers. Without clear insights, individuals struggle to plan careers and training. A data‑driven approach is needed to classify job roles by AI impact and guide smarter decisions.
 
 ---
 
