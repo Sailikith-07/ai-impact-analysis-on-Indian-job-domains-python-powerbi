@@ -16,7 +16,7 @@ Analysed 5,000 Indian job records across 11 domains and built a ML model, achiev
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#search-eficiency-optimization-strategy">Search Efficiency Optimization Strategy</a>
+- <a href="#search-efficiency-optimization-strategy">Search Efficiency Optimization Strategy</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
