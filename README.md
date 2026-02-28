@@ -205,7 +205,7 @@ AI impact evolves.
 
 ---
 
-<h2><a class="anchor" id="Search-Efficiency-Optimization-Strategy"></a>Search Efficiency Optimization Strategy</h2>
+<h2><a class="anchor" id="search-efficiency-optimization-strategy"></a>Search Efficiency Optimization Strategy</h2>
 
 Beyond model prediction, I developed a Search Efficiency Optimization Strategy to quantify the real-world value of AI-impact data for job seekers. By analyzing the distribution of "Automation Risk" roles, this framework identifies the amount of "Search Waste" a candidate can avoid.
 
