@@ -16,13 +16,14 @@ Analysed 5,000 Indian job records across 11 domains and built a ML model, achiev
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#search-eficiency-optimization-strategy">Search Efficiency Optimization Strategy</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
 
 <h2><a class ="anchor" id="overview"></a>Overview</h2>
 
-This project analyzes 5,000 Indian job records across 11 domains to understand AI’s impact on different roles. Python was used for data cleaning, feature engineering, model building. Power BI dashboards was created to visualize each job domain’s analysis. The goal is to provide clear, data‑backed guidance for people and companies on careers, training, and hiring in the age of AI.
+This project analyzes 5,000 Indian job records across 11 domains to understand AI’s impact on different roles. Python was used for data cleaning, feature engineering, model building. Power BI dashboard was created to visualize each job domain’s analysis. The goal is to provide clear, data‑backed guidance for job seekers and companies on careers, training, and hiring in the age of AI.
 
 ---
 
@@ -72,6 +73,7 @@ ai-impact-analysis-on-indian-job-domains
 ├── notebooks/                  # Jupyter notebooks
 │   ├── eda_job_domains_data.ipynb
 │   ├── job_domains_analysis.ipynb
+    └── search_efficiency_optimization_strategy.ipynb
 │
 ├── scripts/                    # Python scripts for web scraping, data cleaning and model training
 │   ├── data_cleaning_script.py
@@ -173,6 +175,7 @@ python scripts/data_cleaning_script.py
 ```bash
     -notebooks/exploratory_data_analysis.ipynb
     -notebooks/regional_price_impact_analysis.ipynb
+    -notebooks/search_efficiency_optimization_strategy.ipynb
 ```
 
 4. Open Power BI Dashboard:
@@ -199,6 +202,18 @@ AI impact evolves.
 - Emphasize project-based and applied learning over theory-heavy instruction. 
 - Align courses with industry-relevant AI tools and workflows to improve employability.
 - Leverage Andhra Pradesh, Gurgaon, and Noida as AI-first hiring hubs due to strong AI adoption and automation demand. 
+
+---
+
+<h2><a class="anchor" id="Search-Efficiency-Optimization-Strategy"></a>Search Efficiency Optimization Strategy</h2>
+
+Beyond model prediction, I developed a Search Efficiency Optimization Strategy to quantify the real-world value of AI-impact data for job seekers. By analyzing the distribution of "Automation Risk" roles, this framework identifies the amount of "Search Waste" a candidate can avoid.
+
+The Metric: Based on an industry standard of 20 mins per application and a 200-application search cycle.
+
+The Discovery: Identified a **17.1%** average waste factor across 11 tech domains.
+
+The Result: Users can save approximately **11.4 - 17 hours** per month by bypassing high-risk roles and focusing on future-proof opportunities identified in this study.
 
 ---
 
